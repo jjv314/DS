@@ -1,3 +1,3 @@
 # DS
 Reference
-Utkarsh Kaggle
+https://www.kaggle.com/u6yuvi/dl-with-pytorch-mnist-classification
